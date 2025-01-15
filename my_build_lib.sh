@@ -1,0 +1,1 @@
+PYO3_PYTHON=/usr/bin/python3.12 cargo build --release
